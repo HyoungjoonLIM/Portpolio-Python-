@@ -1,3 +1,10 @@
+#-----------------------------------------------------------------------------------------------
+# Feb 2021, Hyoungjoon Lim
+# After building time series data for each employee using the log data of the collaboration tool,
+# the next action in the tool was predicted through LSTM.
+#-----------------------------------------------------------------------------------------------
+
+
 import numpy as np
 import pandas as pd
 from pandas import read_csv
